@@ -9,7 +9,7 @@ License：GNU LESSER GENERAL PUBLIC LICENSE
 
 ## 软件官网
 
-https://en.wikipedia.org/wiki/SonarQube
+https://www.sonarqube.org/
 
 ## Dockerfile 使用方法
 
@@ -30,3 +30,4 @@ mvn sonar:sonar -Dsonar.host.url=http://$(boot2docker ip):9000 -Dsonar.jdbc.url=
 ## 资源链接
 
 - https://en.wikipedia.org/wiki/SonarQube
+- https://docs.sonarqube.org/display/SONAR/Documentation
